@@ -2,6 +2,7 @@ package com.gzeinnumer.unittestkotlin
 
 object RegistrationUtil {
 
+    //todo 1
     /**
      * the input is not valid if...
      * ...the username/password is empty

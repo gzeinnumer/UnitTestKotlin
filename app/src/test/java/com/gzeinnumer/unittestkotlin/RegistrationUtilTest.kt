@@ -3,6 +3,7 @@ package com.gzeinnumer.unittestkotlin
 import com.google.common.truth.Truth.assertThat
 import org.junit.Test
 
+//todo 2
 class RegistrationUtilTest{
 
     @Test
