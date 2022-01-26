@@ -1,7 +1,6 @@
 package com.gzeinnumer.unittestkotlin
 
 import com.google.common.truth.Truth
-import org.junit.Assert.*
 import org.junit.Test
 
 //todo 4
