@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "unittestkotlin",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "unittestkotlin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unittestkotlin-Debug-56964bf4fed9f96d653b.json",
+					"name" : "unittestkotlin",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mfadlizein/Documents/GitHub/Pemograman Mobile/UnitTestKotlin/app/.cxx/Debug/1h3993y3/x86",
+		"source" : "/Users/mfadlizein/Documents/GitHub/Pemograman Mobile/UnitTestKotlin/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

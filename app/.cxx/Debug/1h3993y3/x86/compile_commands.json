@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/mfadlizein/Documents/GitHub/Pemograman Mobile/UnitTestKotlin/app/.cxx/Debug/1h3993y3/x86",
+  "command": "/Users/mfadlizein/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/mfadlizein/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/mfadlizein/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dunittestkotlin_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/unittestkotlin.dir/unittestkotlin.cpp.o -c \"/Users/mfadlizein/Documents/GitHub/Pemograman Mobile/UnitTestKotlin/app/src/main/cpp/unittestkotlin.cpp\"",
+  "file": "/Users/mfadlizein/Documents/GitHub/Pemograman Mobile/UnitTestKotlin/app/src/main/cpp/unittestkotlin.cpp"
+}
+]

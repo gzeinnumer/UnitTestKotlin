@@ -1,0 +1,3 @@
+/Users/mfadlizein/Documents/GitHub/Pemograman Mobile/UnitTestKotlin/app/.cxx/Debug/1h3993y3/x86/CMakeFiles/rebuild_cache.dir
+/Users/mfadlizein/Documents/GitHub/Pemograman Mobile/UnitTestKotlin/app/.cxx/Debug/1h3993y3/x86/CMakeFiles/edit_cache.dir
+/Users/mfadlizein/Documents/GitHub/Pemograman Mobile/UnitTestKotlin/app/.cxx/Debug/1h3993y3/x86/CMakeFiles/unittestkotlin.dir
